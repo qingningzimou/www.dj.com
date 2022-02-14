@@ -1,0 +1,1 @@
+<?phpnamespace app\mobile\model\user;use app\mobile\model\user\Basic;class ApplyTmp extends Basic{    protected $name = 'user_apply_tmp';}

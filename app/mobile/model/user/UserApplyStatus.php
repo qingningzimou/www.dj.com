@@ -1,0 +1,1 @@
+<?phpnamespace app\mobile\model\user;use app\mobile\model\user\Basic;/** * 状态表 * Class House * @package app\mobile\model\user */class UserApplyStatus extends Basic{}
